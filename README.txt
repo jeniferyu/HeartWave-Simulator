@@ -1,16 +1,15 @@
 Team 30
- - Qiushuo Man: build menu & settings
- - Huange Meng: build history log & reset
- - Peizhou Zhang: build session & summery
- - Weicheng Yu: build menu & settings
+ - Qiushuo: build menu & settings
+ - Huange: build history log & reset
+ - Peizhou: build session & summery
+ - Jenifer: build menu & settings
 
 Submission includes:
  - "documentations" folder
-       - 3004 Final Project Textual Explanation.pdf
-       - 3004 Final Project Traceability Matrix.pdf
-       - 3004 Final Project Use Case.pdf
+       - Final Project Textual Explanation.pdf
+       - Final Project Traceability Matrix.pdf
+       - Final Project Use Case.pdf
        - Sequence diagram for normal operation.pdf
        - UML_Class_Diagram.pdf
- - "Project Demo.mp4" video
- - "3004FinalProject" folder
+ - "FinalProject" folder
        - implementation
